@@ -1,5 +1,5 @@
 # 4.System
-This a something an operating system from the old eras. It does basic tasks and has a few games. 
+This a something like an operating system from the old eras. It does basic tasks and has a few games. 
 
 
 In this project I explored some new libraries, and implemented my past projects. Creating did take a while, however, I learned many new things that will be used in other projects. A prime example of this is creating the file, then writing in the, and saving it. I want to see what more I can do with the haslib library and the file creating. In this project some parts were extremly easy as I only had to copy and past my older projects.
